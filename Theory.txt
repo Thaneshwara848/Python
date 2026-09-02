@@ -195,6 +195,78 @@ BDD
 
 
 
+common 100 Question 
+			Insurance Application Management
+		Chat bot-------> GK ----> intelligent 75-80%
+		RAG  
+
+	1 )
+	2 )
+	3 )
+	4 )
+
+
+
+
+
+	100 ) 
+
+
+	
+
+
+	LLM (large Lang Model )
+			is an AI MODEL 
+			and trained on a very large amount of text and code 
+			it undrested your prompt 
+			generate a human like responses  
+			most suitable answers  
+
+
+
+Model Family 	Providers 
+	
+GPT 		openAI 
+
+
+Gemini 		Google
+
+
+Claude 		Antropic 
+
+Llama		meta 
+
+DeepSeek 	DeepSeek
+
+every compent : might have thre onw model 
+			IBM 
+			TCS 
+			WIPRO 
+			Infosys 
+			
+
+			
+			LLM (trillions of data ): internet  --------- public across world 
+			LLM : 
+		 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
